@@ -1,1 +1,1 @@
-# hello-world
+# Esse arquivo se trata do primeiro exercídio realizado por mim para o curso de DBE.
